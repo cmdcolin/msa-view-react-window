@@ -48,5 +48,5 @@
     "gh-pages": "^2.2.0",
     "prettier": "^1.19.1"
   },
-  "homepage": "https://cmdcolin.github.io/tree-align-view-react/"
+  "homepage": "https://cmdcolin.github.io/msa-view-react-window/"
 }
