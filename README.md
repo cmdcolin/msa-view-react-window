@@ -1,10 +1,6 @@
-# tree-align-view-react
+# msa-view-react-window
 
-
-This is a React-ized version of https://github.com/ihh/tree-align-view/ for demonstration
-
-Please feel free to ask me questions about patterns used here :)
-
+Demo http://cmdcolin.github.io/msa-view-react-window
 
 ## Install
 
