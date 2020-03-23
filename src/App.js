@@ -71,7 +71,7 @@ function App() {
 
   useEffect(() => {
     (async () => {
-      const res = await fetch('./tree-align-view-react/data.aln')
+      const res = await fetch('./data.aln')
       if (res.ok) {
         const temp = await res.text()
         const result = await parse(temp)
